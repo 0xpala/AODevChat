@@ -16,7 +16,7 @@ Then, let's run AOS in our terminal and install these codes one by one.
 .load router.lua
 
 
-Send({ Target = "7WTand2sxu1x_9bepuWfeJNmQLA0dx88CkRnwJpKkDU", Action = "Register", Name = "Pala Dayı" })
+Send({ Target = "xnkv_QpWqICyt8NpVMbfsUQciZ4wlm5DigLrfXRm8fY", Action = "Register", Name = "Pala Dayı" })
 
 
 Send({ Target = "9HcpHEhi3Di4ai8cO-D7srR7KLmV5U7_TLDBIAfLPXs", Action = "Broadcast", Data = "hello AOS" })
