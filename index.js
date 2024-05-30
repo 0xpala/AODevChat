@@ -2,7 +2,7 @@ const { Client, GatewayIntentBits } = require('discord.js');
 const { exec } = require('child_process');
 
 const DevChat = {
-    InitRoom: "7WTand2sxu1x_9bepuWfeJNmQLA0dx88CkRnwJpKkDU"
+    InitRoom: "9HcpHEhi3Di4ai8cO-D7srR7KLmV5U7_TLDBIAfLPXs"
 };
 
 const client = new Client({
